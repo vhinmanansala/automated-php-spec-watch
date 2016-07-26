@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "gulp-run": "~1.7.1",
+    "gulp-phpspec": "~0.5.4",
+    "gulp-notify": "~2.2.0",
+    "gulp-exec": "~2.1.2",
+    "gulp-shell": "~0.5.2"
+  }
+}
